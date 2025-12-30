@@ -20,8 +20,8 @@ Currently Junior SOC Analyst @ Tsehay Bank
 **Security:** Kali Linux, Wireshark  
 
 ## 🔗 Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat)](https://yourportfolio.link)## Hi there 👋
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nurahmed-jibril/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat)](https://nurahmedjibril.vercel.app/)## Hi there 👋
 
 <!--
 **nurfish006/nurfish006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
